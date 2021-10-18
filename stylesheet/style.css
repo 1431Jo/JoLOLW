@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+html {
+    font-family: 'Quicksand', sans-serif;
+}
+#header-headline {
+    position: absolute;
+    font-size: 30px;
+	left: 48%;
+    top: 3%;
+    text-decoration: underline;
+    color: #fff;
+}
+#header-img {
+    position: absolute;
+    width: 4%;
+    top: 9px;
+    left: 28%;
+}
+.header {
+    background: #101010;
+    width: 100%;
+    height: 95px;
+    display: block;
+}
+.main {
+    background: rgb(12, 172, 172);
+    width: 100%;
+    height: 750px;
+}
